@@ -16,8 +16,8 @@ RENAME: This is used to rename an object existing in the database.
 </div>
 
 ```
-Developed By: ROHIT JAIN D
-Register No: 212222230120
+Developed By:  JEEVA MS
+Register No: 212221230040
 ```
 ### Query:
 #### 1) Create a table student with the following fieds rollno,name,age,address,phoneno.
